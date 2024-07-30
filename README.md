@@ -1,2 +1,1 @@
-# GreedySnake
-2021模拟与数字电路提高班Final Lab
+# 2021 DigiElecCircuit Final Project
